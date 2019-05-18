@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "The importance of staying D-R-Y"
-date:       2019-05-18 19:38:01 +0000
+title:      "The importance of staying DRY"
+date:       2019-05-18 15:38:01 -0400
 permalink:  the_importance_of_staying_d-r-y
 ---
 
