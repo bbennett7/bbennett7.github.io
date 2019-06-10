@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How to Relate Two Instances of the Same Class"
-date:       2019-06-10 06:20:41 +0000
+date:       2019-06-10 02:20:42 -0400
 permalink:  how_to_relate_two_instances_of_the_same_class
 ---
 
